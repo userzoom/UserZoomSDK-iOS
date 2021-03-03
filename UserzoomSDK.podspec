@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.authors           = { 'Userzoom R&D Team' => 'developers@userzoom.com' }
   s.homepage          = 'http://userzoom.com'
   s.license           = { :type => 'Commercial', :file => 'LICENSE.md'  }
-  s.source            = { :git => 'https://github.com/UserZoomDev/UserzoomSDK-iOS.git'}
+  s.source            = { :git => 'https://github.com/userzoom/UserzoomSDK-iOS.git'}
   s.social_media_url  = 'https://twitter.com/userzoom'
   s.frameworks        = 'AVFoundation', 'CoreMedia', 'QuartzCore', 'SystemConfiguration', 'UserNotifications', 'WebKit'
   s.library           = 'z'
