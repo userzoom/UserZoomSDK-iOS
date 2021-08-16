@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
   s.source_files      = 'UserzoomSDK.framework/**/*.h'
   s.public_header_files = 'UserzoomSDK.framework/Headers/*.h'
   s.ios.vendored_frameworks = 'UserzoomSDK.framework'
-  s.dependency        'DatadogSDKObjc', '~> 1.3.1'
+  s.dependency        'DatadogSDKObjc', '1.6.0'
 end
