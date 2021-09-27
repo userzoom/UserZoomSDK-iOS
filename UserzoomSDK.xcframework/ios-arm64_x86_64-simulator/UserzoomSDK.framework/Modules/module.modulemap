@@ -1,6 +1,0 @@
-framework module UserzoomSDK {
-  umbrella header "UserzoomSDK.h"
-
-  export *
-  module * { export * }
-}
