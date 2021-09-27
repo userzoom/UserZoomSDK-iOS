@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name              = 'UserzoomSDK'
   s.module_name       = 'UserzoomSDK'
-  s.version           = '1.0.1'
+  s.version           = '1.0.2'
   s.platform          = :ios, '13.0'
   s.summary           = 'UserzoomSDK to integrate Userzoom Experience Consulting platform.'
   s.authors           = { 'Userzoom R&D Team' => 'developers@userzoom.com' }
