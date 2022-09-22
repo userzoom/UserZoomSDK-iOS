@@ -1,0 +1,1357 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UserzoomSDK_Private",
+        "printedName": "UserzoomSDK_Private",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ReplayKit",
+        "printedName": "ReplayKit",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UserNotifications",
+        "printedName": "UserNotifications",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UserzoomSDK_Private",
+        "printedName": "UserzoomSDK_Private",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ImageIO",
+        "printedName": "ImageIO",
+        "declKind": "Import",
+        "moduleName": "UserzoomSDK"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Components\/Gif\/UZGifPlayer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 249,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Components\/Gif\/UZGifPlayer.swift",
+      "kind": "BooleanLiteral",
+      "offset": 298,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessTaskStartView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 334,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessTaskStartView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 449,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessTaskStartView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3402,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessTaskStartView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3407,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZRestartBroadcastView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 345,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZRestartBroadcastView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 434,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZRestartBroadcastView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 525,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZNotificationCenter.swift",
+      "kind": "StringLiteral",
+      "offset": 218,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessTaskTimer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 214,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Fonts.swift",
+      "kind": "IntegerLiteral",
+      "offset": 179,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessTaskManager.swift",
+      "kind": "StringLiteral",
+      "offset": 467,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessTaskManager.swift",
+      "kind": "StringLiteral",
+      "offset": 353,
+      "length": 20,
+      "value": "\"UserzoomSDK.UZSDKLessTaskManager\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Styles\/Texts.swift",
+      "kind": "IntegerLiteral",
+      "offset": 213,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Components\/UZAttributedText.swift",
+      "kind": "Array",
+      "offset": 535,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "IntegerLiteral",
+      "offset": 208,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "IntegerLiteral",
+      "offset": 247,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "IntegerLiteral",
+      "offset": 285,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 358,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 404,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 449,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 493,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 535,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 576,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 622,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 667,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "IntegerLiteral",
+      "offset": 772,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 892,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1086,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1123,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 1167,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1214,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1422,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1471,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1575,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 1917,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 1994,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2035,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2116,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2162,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2229,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2266,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2302,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2351,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2402,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2483,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2520,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2570,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2622,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2708,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2745,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2795,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2847,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2922,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 2956,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 3003,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 3052,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 3130,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 3206,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 3246,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 3318,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 3358,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 3436,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 3477,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZSDKLessUIResources.swift",
+      "kind": "StringLiteral",
+      "offset": 3524,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZInactivityTimer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 194,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZInactivityTimer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 199,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZInactivityTimer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 238,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZInactivityTimer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 270,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/UZInactivityTimer.swift",
+      "kind": "IntegerLiteral",
+      "offset": 274,
+      "length": 2,
+      "value": "60"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessTaskFinishView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 362,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessTaskFinishView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 450,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessTaskFinishView.swift",
+      "kind": "FloatLiteral",
+      "offset": 716,
+      "length": 3,
+      "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZAbandonStudyConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 439,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZAbandonStudyConfirmationView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 527,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZAbandonStudyConfirmationView.swift",
+      "kind": "FloatLiteral",
+      "offset": 783,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 213,
+      "length": 3,
+      "value": "244"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 217,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 229,
+      "length": 3,
+      "value": "245"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 233,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 244,
+      "length": 3,
+      "value": "251"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 248,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 326,
+      "length": 2,
+      "value": "91"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 329,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 341,
+      "length": 3,
+      "value": "108"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 345,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 356,
+      "length": 3,
+      "value": "127"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 360,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 410,
+      "length": 2,
+      "value": "74"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 413,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 425,
+      "length": 2,
+      "value": "74"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 428,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 439,
+      "length": 2,
+      "value": "74"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 442,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 490,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 493,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 505,
+      "length": 2,
+      "value": "17"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 508,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 519,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 522,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 578,
+      "length": 3,
+      "value": "186"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 582,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 594,
+      "length": 3,
+      "value": "189"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 598,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 609,
+      "length": 3,
+      "value": "208"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 613,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 664,
+      "length": 2,
+      "value": "67"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 667,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 679,
+      "length": 2,
+      "value": "99"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 682,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 693,
+      "length": 3,
+      "value": "249"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 697,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 748,
+      "length": 3,
+      "value": "243"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 752,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 764,
+      "length": 3,
+      "value": "246"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 768,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 779,
+      "length": 3,
+      "value": "249"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 783,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 835,
+      "length": 2,
+      "value": "23"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 838,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 850,
+      "length": 3,
+      "value": "153"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 854,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 865,
+      "length": 3,
+      "value": "123"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 869,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 919,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 922,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 934,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 937,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 948,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 951,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 999,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1002,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1014,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1017,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1028,
+      "length": 2,
+      "value": "50"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SwiftUI\/Colors.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1031,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessTaskFinishConfirmView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 410,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessTaskFinishConfirmView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 498,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessTaskFinishConfirmView.swift",
+      "kind": "FloatLiteral",
+      "offset": 753,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessComeBackView.swift",
+      "kind": "FloatLiteral",
+      "offset": 587,
+      "length": 3,
+      "value": "3.0"
+    },
+    {
+      "filePath": "\/Users\/vagrant\/git\/UserzoomSDK\/SDKLess\/Views\/UZSDKLessStudyCancelledView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 248,
+      "length": 2,
+      "value": "14"
+    }
+  ]
+}

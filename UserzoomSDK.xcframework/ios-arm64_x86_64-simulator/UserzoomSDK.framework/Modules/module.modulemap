@@ -4,3 +4,8 @@ framework module UserzoomSDK {
   export *
   module * { export * }
 }
+
+module UserzoomSDK.Swift {
+  header "UserzoomSDK-Swift.h"
+  requires objc
+}

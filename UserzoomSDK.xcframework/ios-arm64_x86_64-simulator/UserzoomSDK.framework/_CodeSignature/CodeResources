@@ -20,17 +20,65 @@
 		<data>
 		eg1bzpMn4a3P/udZ58AJ2UEGUTg=
 		</data>
+		<key>Headers/UserzoomSDK-Swift.h</key>
+		<data>
+		a7xkSLFIJeLIzGmDbnuVW4ugb+w=
+		</data>
 		<key>Headers/UserzoomSDK.h</key>
 		<data>
 		4VkDbpQ50h1Ip2ofYyyLU5xepKY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pCfqbTshiY5nQVzQLX75c/1rGFA=
+		3G97V79msNlnu12z2TgzSivOU4Y=
+		</data>
+		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		j0hb+Sm5ihGtfC/gk7a7avDEg38=
+		</data>
+		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		BKzvXBRcGhdNME7y5RrlZf0Mcew=
+		</data>
+		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		NYADD8JB4/7kBAMrHy2MpFuIx6I=
+		</data>
+		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		BKzvXBRcGhdNME7y5RrlZf0Mcew=
+		</data>
+		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		/Q/O5xZg/zmWmPl8JwfFlRisytA=
+		</data>
+		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		j0hb+Sm5ihGtfC/gk7a7avDEg38=
+		</data>
+		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		em3kIKF/GfTmD62hv2UxoXXiNz4=
+		</data>
+		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		mxKdQH1umDKDRMerdV4mJZ24lPM=
+		</data>
+		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		em3kIKF/GfTmD62hv2UxoXXiNz4=
+		</data>
+		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		wbc1PyvixYACkuZ6UzTIZf+3SKo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		x9US4Zb24U5WksQnNK8A3heb81k=
+		KENDVTfHHlk2NoSAdOxC0IDfFiQ=
+		</data>
+		<key>UZVideoQuestionSuccessView.nib</key>
+		<data>
+		RrCLxSWnmNLQ9qe92VVucfFMA6Q=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
@@ -41,6 +89,38 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>exit-study.png</key>
+		<data>
+		alcfsedBgpe0R4P83lC2wyBqacw=
+		</data>
+		<key>uz-install-app-gif.gif</key>
+		<data>
+		7WJgyRNQhO1QBWF3rruvKZljROY=
+		</data>
+		<key>uz-install-app-icon.png</key>
+		<data>
+		WGTk7eYxCPB+58nKc3Sg2umYIDY=
+		</data>
+		<key>uz-notification-icon.png</key>
+		<data>
+		0x3STSzGvLY7bqYyG8cl7r+i6kM=
+		</data>
+		<key>uz-record-icon.png</key>
+		<data>
+		zFYzGfe9fWmMfW9xdAc3RPbVQ5c=
+		</data>
+		<key>uz-recording-gif.gif</key>
+		<data>
+		my3OKX8kBBTeeyd8A+n28A2sM8Q=
+		</data>
+		<key>uz-task-navigation-gif.gif</key>
+		<data>
+		e1YKjX6EdfwevArfw+E76xQO2X4=
+		</data>
+		<key>uz-well-done.png</key>
+		<data>
+		n3ZIpGKlHJkF+0xP4UjkpNAqrMU=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -72,6 +152,13 @@
 			qVHQLf0g3Y4drpTbwFcYZtWgdEeQbODQpXLvTr3QlzU=
 			</data>
 		</dict>
+		<key>Headers/UserzoomSDK-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ziJa5RQu2w9MxBbaWe9+FHUPnUHjS39Z+V3Tq0V0cX0=
+			</data>
+		</dict>
 		<key>Headers/UserzoomSDK.h</key>
 		<dict>
 			<key>hash2</key>
@@ -79,11 +166,88 @@
 			wlOjcIQFN+W1lC6PN5CxVkm4nJ29XP9d7uQnj1D38AA=
 			</data>
 		</dict>
+		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nzseWuP+xfYa23ppopGrLYY6/kwr+KdhOQXDJi7NK68=
+			</data>
+		</dict>
+		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m9U3Be3P16mGd9dZx3bMTycdBKyYiQb88LgQOZUuIaA=
+			</data>
+		</dict>
+		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yT20kWvKxsJqovbqbUAsA3LvAMBBqBnGDTzFHtGUc/o=
+			</data>
+		</dict>
+		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m9U3Be3P16mGd9dZx3bMTycdBKyYiQb88LgQOZUuIaA=
+			</data>
+		</dict>
+		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YPnG7ruH1GM6UK/2p0j31dpJ4lf69xUQTuOwquPyKSc=
+			</data>
+		</dict>
+		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nzseWuP+xfYa23ppopGrLYY6/kwr+KdhOQXDJi7NK68=
+			</data>
+		</dict>
+		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7KZoEyQOhdaGQU2pgIF8YYsDl+4Z645Ao+YR4ja9FME=
+			</data>
+		</dict>
+		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kSqeNfQV+45SRYvDyWu88C49XmGZdMq7ZTTm6cTz4AI=
+			</data>
+		</dict>
+		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7KZoEyQOhdaGQU2pgIF8YYsDl+4Z645Ao+YR4ja9FME=
+			</data>
+		</dict>
+		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HSX8FM2yqgKDt5QriKJSER89jp6/2aryxzsJK+OK0r4=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NkECfVDGTTc3ah4E9t6sR1sp2eQ5Fb1/Gm4VtdoRcW0=
+			BKY60keAMhNA33VEk466TNinf5HwsspHxWFogV66BiY=
+			</data>
+		</dict>
+		<key>UZVideoQuestionSuccessView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4ByQKRyjnDC9v3GS/l9rjrNIHXTyznrDX6sDxop8BBs=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>
@@ -94,6 +258,62 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>exit-study.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WFdyNsI1NQAnWBs36koP9lKaCkgktB6dnoKyhQbK0fE=
+			</data>
+		</dict>
+		<key>uz-install-app-gif.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IU/WpwSgFQcm9QftBxRhzgn5/0M00kQ0gfeG4bamvrs=
+			</data>
+		</dict>
+		<key>uz-install-app-icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D56fRVn28S7RE3q6T1bIHVZ/P4x678CtlKaeFkj1yOw=
+			</data>
+		</dict>
+		<key>uz-notification-icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			stDmUf+B6z8dGcKQcKtKwD3Sm9IFVoBePsmN+2zVHzQ=
+			</data>
+		</dict>
+		<key>uz-record-icon.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4/6p0rJkG8eeAJkhOXlRzKJmjJa+SQqFNNgnVFHXY1I=
+			</data>
+		</dict>
+		<key>uz-recording-gif.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0yh3Iguu2ZQDPi01crs3duGDXN5JORG8U34Aj5sXViY=
+			</data>
+		</dict>
+		<key>uz-task-navigation-gif.gif</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aKt1G1P2v3ClTlMvwsiSLU4JxSSJD1V6icIWocC2HZE=
+			</data>
+		</dict>
+		<key>uz-well-done.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			O0K3IOLjGMrS2rLBSaC3R1kS7XWRiLcNxGWVz8vPJU8=
+			</data>
 		</dict>
 	</dict>
 	<key>rules</key>
