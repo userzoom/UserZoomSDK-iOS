@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xc6ilqjP8q24LqNlOY/RuZBMb6U=
+		zYMYYH1ec5C/b5eqM2jFovQg9W8=
 		</data>
 		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ocOMEgCI2cT0kXEb5voYVnFR6Vo=
+		/xphAGjUB2xIN915TRXGNvTBEq8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -178,7 +178,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nLAMhZMssO+vzAgHWGSIvjuRFwpLrSOH4R12+22iDKg=
+			u2kLn7j7DlDxdRGo+bLP0EzMl/U0HqV8PiPxZtEb52Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

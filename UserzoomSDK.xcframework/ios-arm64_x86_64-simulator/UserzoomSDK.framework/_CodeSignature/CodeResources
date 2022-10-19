@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		3G97V79msNlnu12z2TgzSivOU4Y=
+		dB0KSHQESvGFfJkg7RymLgfw+kE=
 		</data>
 		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/UserzoomSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/Q/O5xZg/zmWmPl8JwfFlRisytA=
+		poPM9FQ5XYAIEljFYcH/OaOCsT4=
 		</data>
 		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wbc1PyvixYACkuZ6UzTIZf+3SKo=
+		8rpq+kVvA3gIhXS1IvTfOFen7HQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -198,7 +198,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YPnG7ruH1GM6UK/2p0j31dpJ4lf69xUQTuOwquPyKSc=
+			OeNx4d9Sb1yvlhWRQ1/JnEogyjHOUDTkxyvQLf8icU8=
 			</data>
 		</dict>
 		<key>Modules/UserzoomSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -233,7 +233,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HSX8FM2yqgKDt5QriKJSER89jp6/2aryxzsJK+OK0r4=
+			ZnQCRhLq4nMGGuvX9Ponv1m1O1bLZYXW/76fdJV9Bzs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
